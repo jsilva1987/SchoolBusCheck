@@ -11,3 +11,9 @@ so I could mock a couple of requests and assert the results.
 
 Also apologies for the lack of documentation, I tried to create the methods as self-explanatory as possible to avoid needing to comment
 everything.
+
+## Running the Project
+
+As requested, the minimum supported iOS version is 10.0. I tested the project on an iPhone 5s running on iOS 11.3. I also included the Pods folder to avoid having to install them, but, if for some reason the project does not compile, running `pod install` should do the trick.
+
+Built on Xcode 9.3.
